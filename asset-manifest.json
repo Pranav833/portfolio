@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.492a0fa6.css",
+    "main.js": "/portfolio/static/js/main.5718c46b.js",
+    "static/media/eyantra_video_3.mp4": "/portfolio/static/media/eyantra_video_3.f7405b4111840880d786.mp4",
+    "static/media/pic2.jpg": "/portfolio/static/media/pic2.3183848e8bc57d1d5613.jpg",
+    "static/media/eyantra_video_2.mp4": "/portfolio/static/media/eyantra_video_2.79626750d6ebb323cdab.mp4",
+    "static/media/pic1.jpg": "/portfolio/static/media/pic1.3bc4eee4a6dcae43fc23.jpg",
+    "static/media/Data Structure And Algorithms Using Java_page-0001.jpg": "/portfolio/static/media/Data Structure And Algorithms Using Java_page-0001.f4bdc7da86c6b88f3a60.jpg",
+    "static/media/Programming In Modern C++_page-0001.jpg": "/portfolio/static/media/Programming In Modern C++_page-0001.d80459af7b08f4a44744.jpg",
+    "static/media/puzzle.png": "/portfolio/static/media/puzzle.861d373f1eb1c16aac25.png",
+    "static/media/handy helper.png": "/portfolio/static/media/handy helper.88d7a2181da60ca12d3c.png",
+    "static/media/Calculator.png": "/portfolio/static/media/Calculator.cb26da377097d11c457c.png",
+    "static/media/IOT.png": "/portfolio/static/media/IOT.2f8248b0e1db85159b8e.png",
+    "static/media/Multiplayer.png": "/portfolio/static/media/Multiplayer.e76901cfbd4fec7c6abb.png",
+    "static/media/robotic arm.png": "/portfolio/static/media/robotic arm.3eed306a2cc20f019c42.png",
+    "static/media/eyantra.jpg": "/portfolio/static/media/eyantra.e65dc1a8b9841257a815.jpg",
+    "static/media/T2V.png": "/portfolio/static/media/T2V.48045d7e5abd6105b0a8.png",
+    "static/media/keras.jpg": "/portfolio/static/media/keras.4189a88dc6f63c7fad36.jpg",
+    "static/media/python.jpg": "/portfolio/static/media/python.c448189c5ca467c57c0a.jpg",
+    "static/media/flutter.jpg": "/portfolio/static/media/flutter.c5d733f62be7e34b7d07.jpg",
+    "static/media/web.jpg": "/portfolio/static/media/web.0adf5acde84a805b598d.jpg",
+    "static/media/pic3.jpeg": "/portfolio/static/media/pic3.c1ced290a0a9cc198183.jpeg",
+    "static/media/pic4.jpeg": "/portfolio/static/media/pic4.1d869acbaeae254f74d6.jpeg",
+    "static/media/PRANAV_SALUNKHE_CV.pdf": "/portfolio/static/media/PRANAV_SALUNKHE_CV.3eb02b483f1ad39ee8df.pdf",
+    "static/media/profile_pic_2.jpeg": "/portfolio/static/media/profile_pic_2.bc91fbe7527654f7db21.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.492a0fa6.css.map": "/portfolio/static/css/main.492a0fa6.css.map",
+    "main.5718c46b.js.map": "/portfolio/static/js/main.5718c46b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492a0fa6.css",
+    "static/js/main.5718c46b.js"
+  ]
+}
